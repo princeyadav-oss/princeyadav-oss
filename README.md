@@ -20,16 +20,20 @@ I am a Computer Science student passionate about building projects, learning new
 ## 🛠️ Tech Stack
 
 ### Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Web Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -39,6 +43,7 @@ I am a Computer Science student passionate about building projects, learning new
 ## 🚀 Featured Projects
 
 ### 🔍 MitraScan-AI
+
 **AI-Assisted Packaged Commodity Compliance Checker**
 
 An AI-powered system designed to help check packaged commodity information and compliance.
@@ -52,6 +57,14 @@ An AI-powered system designed to help check packaged commodity information and c
 A collaborative software development project.
 
 🔗 [View Repository](https://github.com/princeyadav-oss/A3-PS027-TC126)
+
+---
+
+### 🛒 E-Commerce Project
+
+A web development project focused on building an e-commerce website.
+
+🔗 [View Repository](https://github.com/princeyadav-oss/Ecommerce-project)
 
 ---
 
@@ -116,12 +129,21 @@ A basic web-based library management project.
 ## 💡 Current Focus
 
 ```text
-Web Development/DSA
-      ↓
+Web Development
+     ↓
+HTML + CSS + Tailwind CSS
+     ↓
 JavaScript
-      ↓
+     ↓
+DSA & Java
+     ↓
 Cybersecurity
-      ↓
-     IoT
-      ↓
+     ↓
+AI & IoT
+     ↓
 Building Real-World Projects 🚀
+```
+
+---
+
+⭐ **Thanks for visiting my profile!**
