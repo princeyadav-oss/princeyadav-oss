@@ -1,23 +1,28 @@
-# 👋 Hi, I'm Prince Yadav
+# Hi 👋, I'm Prince Yadav
 
-### 🎓 B.Tech CSE Student | 💻 Web Developer | 🔐 Cybersecurity Learner | 🤖 AI & IoT Enthusiast
+### B.Tech CSE Student • Web Developer • Cybersecurity Learner • AI & IoT Enthusiast
 
-I am a Computer Science student passionate about building projects, learning new technologies, and solving real-world problems through code.
+I’m a Computer Science Engineering student passionate about building practical software, learning cybersecurity, and exploring AI, IoT, and modern web technologies.
+
+I enjoy turning ideas into real-world projects and continuously improving my problem-solving skills through Data Structures & Algorithms.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Currently pursuing **B.Tech in Computer Science & Engineering**
+- 🎓 B.Tech Computer Science Engineering Student
 - 💻 Learning **Web Development & JavaScript**
 - 🔐 Exploring **Cybersecurity**
-- 🤖 Interested in **AI, IoT & Software Development**
-- 🚀 Building projects and improving my problem-solving skills
-- 🤝 Open to collaboration on interesting projects
+- 🤖 Interested in **AI & Machine Learning**
+- 🌐 Building responsive and interactive web applications
+- 📡 Exploring **IoT & Embedded Systems**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🏆 Participating in **Hackathons & SIH Projects**
+- 🌱 Always learning and building something new
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
@@ -26,13 +31,20 @@ I am a Computer Science student passionate about building projects, learning new
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Web Development
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Tools
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -40,110 +52,123 @@ I am a Computer Science student passionate about building projects, learning new
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
-### 🔍 MitraScan-AI
-
-**AI-Assisted Packaged Commodity Compliance Checker**
-
-An AI-powered system designed to help check packaged commodity information and compliance.
-
-🔗 [View Project](https://github.com/princeyadav-oss/MitraScan-AI)
-
----
-
-### 💻 A3-PS027-TC126
-
-A collaborative software development project.
-
-🔗 [View Repository](https://github.com/princeyadav-oss/A3-PS027-TC126)
+| Project | Description | Technologies |
+|---|---|---|
+| 🚀 **MitraScan AI** | AI-powered packaged commodity compliance scanner | AI • Web • Python |
+| 🌐 **AIROI** | IPv6 readiness testing and analysis platform | Web • Networking • IPv6 |
+| 🛒 **E-Commerce Project** | Responsive e-commerce web application | HTML • CSS • JavaScript |
+| 📍 **Real-Time GPS Tracker** | GPS-based real-time location tracking system | ESP32 • GPS • IoT |
+| 📊 **Data Analytics Dashboard** | Interactive dashboard for data analysis and visualization | Python • Pandas • Plotly |
 
 ---
 
-### 🛒 E-Commerce Project
+## 🧠 Data Structures & Algorithms
 
-A web development project focused on building an e-commerce website.
+Currently improving my problem-solving skills through regular practice.
 
-🔗 [View Repository](https://github.com/princeyadav-oss/Ecommerce-project)
+- 🔹 Arrays
+- 🔹 Strings
+- 🔹 Binary Search
+- 🔹 Recursion
+- 🔹 Sorting
+- 🔹 Searching
+- 🔹 Time & Space Complexity
+- 🔹 Problem Solving
+
+### Coding Profiles
+
+🔗 **LeetCode:** https://leetcode.com/u/prince_2008/
+
+🔗 **GeeksforGeeks:** https://www.geeksforgeeks.org/profile/py4141e28
 
 ---
 
-### ✅ Todo App
+## 🔐 Cybersecurity Journey
 
-A JavaScript-based Todo application for managing daily tasks.
+Currently exploring cybersecurity fundamentals and gradually building knowledge in:
 
-🔗 [View Repository](https://github.com/princeyadav-oss/Todo-app)
+- 🌐 Networking
+- 🔒 Web Security
+- 🛡️ Ethical Hacking Fundamentals
+- 🔍 Vulnerability Analysis
+- 🧰 Security Tools
+- 🐧 Linux
+- 🔐 Cybersecurity Concepts
 
 ---
 
-### 📚 Library Management System
+## 📚 Currently Learning
 
-A basic web-based library management project.
-
-🔗 [View Repository](https://github.com/princeyadav-oss/Library-management-system-)
+- JavaScript
+- Advanced Web Development
+- Data Structures & Algorithms
+- Cybersecurity
+- Networking
+- AI & Machine Learning
+- IoT
+- Git & GitHub
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=princeyadav-oss&show_icons=true&theme=tokyonight" />
+</p>
 
-![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=princeyadav-oss&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princeyadav-oss&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princeyadav-oss&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=princeyadav-oss&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeyadav-oss&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Hackathons & Projects
 
-<div align="center">
+### Smart India Hackathon
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=princeyadav-oss&theme=tokyonight&no-frame=true&margin-w=10)
+Working on innovative software solutions for real-world problems and gaining experience in:
 
-</div>
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-yadav-794706325)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/princeyadav-oss)
-
-📧 **Email:** py4149560@gmail.com
+- Problem solving
+- Team collaboration
+- Full-stack development
+- AI-powered solutions
+- Product development
+- GitHub collaboration
 
 ---
 
-## 💡 Current Focus
+## 🤝 Let's Connect
 
-```text
-Web Development
-     ↓
-HTML + CSS + Tailwind CSS
-     ↓
-JavaScript
-     ↓
-DSA & Java
-     ↓
-Cybersecurity
-     ↓
-AI & IoT
-     ↓
-Building Real-World Projects 🚀
-```
+I'm always interested in collaborating on:
+
+- 🚀 Innovative projects
+- 💻 Web development
+- 🔐 Cybersecurity
+- 🤖 AI & IoT
+- 🏆 Hackathons
+- 🌐 Open-source projects
+
+### Connect With Me
+
+🔗 **LinkedIn:**  
+https://linkedin.com/in/prince-yadav-794706325
+
+🔗 **LeetCode:**  
+https://leetcode.com/u/prince_2008/
+
+🔗 **GeeksforGeeks:**  
+https://www.geeksforgeeks.org/profile/py4141e28
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+### 💡 Building, Learning & Improving — One Commit at a Time. 🚀
+
+<p align="center">
+  ⭐ If you find my projects interesting, feel free to explore my repositories!
+</p>
