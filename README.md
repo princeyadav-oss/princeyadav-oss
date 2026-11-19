@@ -49,7 +49,7 @@ I enjoy turning innovative ideas into real-world projects while continuously imp
 | 🚀 Project | Description | Technologies | Links |
 |---|---|---|---|
 | **TracePoint – AIORI** | Cybersecurity investigation and digital evidence analysis platform | Node.js, Express, Evidence Storage, Event Analysis, React | [Live Demo](https://tracepoint.jassist.qzz.io/) · [GitHub](https://github.com/aditishukla297/tracepoint) |
-| **MitraScan AI** | AI-powered packaged commodity compliance scanner | AI, Python, Web | [Live Demo](https://mitra-scan-ai.vercel.app/) |
+| **MitraScan AI(SIH)** | AI-powered packaged commodity compliance scanner | AI, Python, Web | [Live Demo](https://mitra-scan-ai.vercel.app/) |
 | **SixCheck** | IPv6 website and dependency readiness auditor | Networking, IPv6, Web | [Live Demo](https://airoi-hckathon.vercel.app/) |
 | **E-Commerce Project** | Responsive e-commerce web application | HTML, CSS, JavaScript | [GitHub](https://github.com/princeyadav-oss/Ecommerce-project) |
 | **Real-Time GPS Tracker** | GPS-based real-time location tracking system | ESP32, GPS, IoT | |
