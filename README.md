@@ -26,29 +26,23 @@ I enjoy turning innovative ideas into real-world projects while continuously imp
 
 ### 👨‍💻 Programming Languages
 
-\<p> \<img src="[https://skillicons.dev/icons?i=c,cpp,java,js](https://skillicons.dev/icons?i=c,cpp,java,js)" /> \</p>
+![Languages](https://skillicons.dev/icons?i=c,cpp,java,js)
 
 ### 🎨 Frontend Development
 
-\<p> \<img src="[https://skillicons.dev/icons?i=html,css,js,react,tailwind](https://skillicons.dev/icons?i=html,css,js,react,tailwind)" /> \</p>
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind)
 
 ### ⚙️ Backend Development
 
-\<p> \<img src="[https://skillicons.dev/icons?i=nodejs,express,python,fastapi](https://skillicons.dev/icons?i=nodejs,express,python,fastapi)" /> \</p>
+![Backend](https://skillicons.dev/icons?i=nodejs,express,python,fastapi)
 
 ### 🗄️ Database
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=mongodb,mysql](https://skillicons.dev/icons?i=mongodb,mysql)" />
-\</p>
+![Database](https://skillicons.dev/icons?i=mongodb,mysql)
 
 ### 🔧 Tools & Platforms
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,aws](https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,aws)" />
-\</p>
-
----
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,aws)
 
 ## 🌟 Featured Projects
 
